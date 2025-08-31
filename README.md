@@ -71,7 +71,7 @@ Both models effectively identified anomalies within the dataset, demonstrating t
 
 This section outlines the overall architecture and data flow within the anomaly detection system. The process begins with data ingestion, followed by preprocessing, model training (for both Isolation Forest and Local Outlier Factor), and finally, anomaly detection and model saving.
 
-<img width="454" height="898" alt="image" src="https://github.com/user-attachments/assets/64ca969a-62d3-48c6-9d92-35fb70728826" />
+<img width="7840" height="12990" alt="image" src="https://github.com/user-attachments/assets/1ac73042-4ba7-4f69-be57-0dd3efdbd8ff" />
 
 ### Flow Description
 
